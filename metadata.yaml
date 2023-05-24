@@ -1,5 +1,8 @@
 _repo: Suomesta-pois-b-Kuvaus-kevaalta-1899_70772
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Talvio, Maila
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70772#Suomesta-pois-b-Kuvaus-kevaalta-1899
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70772'
